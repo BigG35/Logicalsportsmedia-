@@ -80,7 +80,16 @@ Payments Accepted: Opay Transfer Available </p>
 ); }
 
 <section className="px-6 py-16 max-w-5xl mx-auto text-center">
-    <h2 className="text-4xl font-bold mb-6">Stories 📚</h2>
+    <h3 className="text-xl font-bold mb-2">
+The Boy Who Never Gave Up ⚽
+</h3>
+
+<p className="text-gray-400">
+A young football lover started from the streets with nothing but passion and dreams. 
+People laughed at him, but he kept training every day. 
+One day his predictions, stories, and football content reached people around the world. 
+That was the beginning of Logical Sports Media.
+</p>
     <p className="text-gray-400 text-lg leading-relaxed mb-6">
       Here you will find inspiring stories, football experiences, sports journeys, and entertainment
       articles that people can read anytime. This section will grow into a full library of stories
