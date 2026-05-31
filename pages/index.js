@@ -1,4 +1,4 @@
-export default function AngelDonaldWebsite() { const socials = [];
+import PostForm from "../components/PostForm";() { const socials = [];
 
 const posts = [ { title: 'Sports & Football Predictions', desc: 'Match analysis, combo ideas, and football updates every day.', }, { title: 'Trending Sports Videos', desc: 'Funny football moments, reactions, and trending sports clips.', }, { title: 'News, Books & Stories', desc: 'Personal updates, motivation, and entertainment content.', }, ];
 
